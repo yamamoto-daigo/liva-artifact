@@ -1,10 +1,10 @@
 ---
-title: "ポスト11"
+title: "スピーカーセット"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-2.jpg"
+image: "images/post/speaker-set1.jpeg"
 
 # meta description
 description: "this is meta description"

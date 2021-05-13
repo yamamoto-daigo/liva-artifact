@@ -1,17 +1,17 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "KICKER QSS674"
 date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-3.jpg"
+image: "images/post/kicker1.jpeg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "HTML"
+  - "Go Language"
 tags:
   - "Photos"
   - "Game"
