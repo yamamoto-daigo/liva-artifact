@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://artifact-blog.netlify.app"
 languageCode = "ja"
 title = "Liva | Personal blog template"
 theme = "liva-hugo"
